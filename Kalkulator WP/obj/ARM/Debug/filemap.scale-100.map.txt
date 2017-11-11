@@ -1,0 +1,7 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-100"
+"ResourceDimensions"		"scale-100"
+
+[Files]
+"c:\users\iva\documents\visual studio 2015\Projects\Kalkulator WP\Kalkulator WP\obj\ARM\Debug\filemap.scale-100.pri"			"resources.pri"
+"c:\users\iva\documents\visual studio 2015\Projects\Kalkulator WP\Kalkulator WP\obj\ARM\Debug\PackageLayout\Assets\Square44x44Logo.scale-100.png"			"Assets\Square44x44Logo.scale-100.png"
